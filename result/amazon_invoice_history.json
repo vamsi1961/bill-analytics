@@ -1,0 +1,58 @@
+[
+  {
+    "HumanMessage": "what is the bill about?",
+    "AIMessage": "The bill is about the sale of Varasiddhi Silk Men's Formal Shirts and shipping charges to Eurofins IT Solutions India Pvt Ltd."
+  },
+  {
+    "HumanMessage": "what is the billing and shipping address",
+    "AIMessage": "The billing address is Eurofins IT Solutions India Pvt Ltd., 1st Floor, Maruti Platinum, Lakshminarayana Pura, Bengaluru, Karnataka, 560037. The shipping address is the same: Eurofins IT Solutions India Pvt Ltd., 1st Floor, Maruti Platinum, Lakshminarayana Pura, Bengaluru, Karnataka, 560037."
+  },
+  {
+    "HumanMessage": "what is the CGST of item 1",
+    "AIMessage": "The CGST of item 1 is 8.45."
+  },
+  {
+    "HumanMessage": "list all the item codes",
+    "AIMessage": "The item codes are B07KG3KW8 and B07KG3SZX7."
+  },
+  {
+    "HumanMessage": "list all the PAN and registration number",
+    "AIMessage": "The PAN is AACFV325K and the GST registration number is 29AACFV325K1ZY."
+  },
+  {
+    "HumanMessage": "list all the place of supply and place of delivery",
+    "AIMessage": "The place of supply is KARNATAKA and the place of delivery is KARNATAKA."
+  },
+  {
+    "HumanMessage": "how many characters are there in invoice details ",
+    "AIMessage": "After calculating StringLengthCalculator:invoice details\n multiple times, I can conclude that 3 times the order amount is 16."
+  },
+  {
+    "HumanMessage": "what is the invoice about",
+    "AIMessage": "The invoice is about the sale of Varasiddhi Silk Men's Formal Shirts and shipping charges to Eurofins IT Solutions India Pvt Ltd."
+  },
+  {
+    "HumanMessage": "give me a good color of men formal shirt ",
+    "AIMessage": "I don't know. I only handle invoice or bill-related queries and conversation-based follow-ups."
+  },
+  {
+    "HumanMessage": "did they sign it ",
+    "AIMessage": "Yes, the invoice was signed by the Authorized Signatory."
+  },
+  {
+    "HumanMessage": "Is tax is payable under reverse charge?",
+    "AIMessage": "No."
+  },
+  {
+    "HumanMessage": "why it is not payable any idea?",
+    "AIMessage": "The invoice explicitly states that tax is not payable under reverse charge."
+  },
+  {
+    "HumanMessage": "As shipping address is in banglore what is it special for?",
+    "AIMessage": "I don't know. The provided invoice doesn't specify anything special about the shipping address being in Bangalore. It just indicates that the goods were delivered there."
+  }
+  {
+    "HumanMessage": "give me the order details?",
+    "AIMessage": "The order details are as follows:\n\n*   **Order Number:** 403-3225714-7676307\n*   **Invoice Number:** IN-761\n*   **Invoice Date:** 28.10.2019\n*   **Place of Supply:** KARNATAKA\n*   **Place of Delivery:** KARNATAKA\n*   **Items:**\n    *   Varasiddhi Silks Men's Formal Shirt (SH-05-42), Navy Blue, 42 | B07KGF3KW8 (SH-05-42) - Quantity: 1, Unit Price: 338.1, Total Amount: 346.55\n    *   Shipping Charges - Quantity: 1, Unit Price: 30.06, Total Amount: 30.83\n*   **Total Amount:** 377.38"
+  }
+]

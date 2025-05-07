@@ -1,0 +1,46 @@
+[
+  {
+    "HumanMessage": "What is the invoice number and date",
+    "AIMessage": "The invoice number is 10016 and the date is 7/17/2020 9:00 AM."
+  },
+  {
+    "HumanMessage": "How many items are there",
+    "AIMessage": "There are 4 items."
+  },
+  {
+    "HumanMessage": "What is the date of the invoice",
+    "AIMessage": "The date of the invoice is 7/17/2020 9:00 AM."
+  },
+  {
+    "HumanMessage": "what is the waybill explain it",
+    "AIMessage": "The waybill number is 108229. It's a document accompanying the shipment of goods, detailing information like the sender, receiver, contents, and destination."
+  },
+  {
+    "HumanMessage": "what is the product name of the second item",
+    "AIMessage": "Apricot Bun"
+  },
+  {
+    "HumanMessage": "what is the capital of india",
+    "AIMessage": "I don't know. I only handle invoice or bill-related queries and conversation-based follow-ups."
+  },
+  {
+    "HumanMessage": "what is the total amount",
+    "AIMessage": "The total amount is 63.00."
+  },
+  {
+    "HumanMessage": "what is the amount of 4th item",
+    "AIMessage": "18.00"
+  },
+  {
+    "HumanMessage": "give a summary og the invoice",
+    "AIMessage": "Here's a summary of the invoice:\n\n*   **Invoice Number:** 10016\n*   **Date:** 7/17/2020 9:00 AM\n*   **Supplier:** Global Foods\n*   **Total Amount:** 63.00\n*   **Items:**\n    *   Apple Bun (10 pcs) - 15.00\n    *   Apricot Bun (10 pcs) - 17.00\n    *   Cabbage (10 pcs) - 13.00\n    *   Heat Bun (10 pcs) - 18.00\n*   **Waybill:** 108229"
+  },
+  {
+    "HumanMessage": "what is the bill about",
+    "AIMessage": "The bill is a restaurant bill from Global Foods, listing items like Apple Bun, Apricot Bun, Cabbage, and Heat Bun."
+  },
+  {
+    "HumanMessage": "what is my first question?",
+    "AIMessage": "Your first question was \"What is the invoice number and date\"."
+  }
+]

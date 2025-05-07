@@ -1,0 +1,64 @@
+{
+  "document_no": "10016",
+  "date": "7/17/2020 9:00 AM",
+  "supplier": "Global Foods",
+  "concept": "Restaurant",
+  "register": "Storage",
+  "credit_employee": null,
+  "vat_no": "12345",
+  "ref_no": null,
+  "comment": null,
+  "waybill": "108229",
+  "table_data": [
+    {
+      "no": "1",
+      "product_code": "8247",
+      "product_name": "Apple Bun",
+      "quantity": "10.000",
+      "unit": "pcs",
+      "actual_quantity": "10.000",
+      "price_per_unit": "1.50",
+      "amount": "15.00",
+      "vat_rate": "0.00",
+      "vat_amount": "0.00"
+    },
+    {
+      "no": "2",
+      "product_code": "9347",
+      "product_name": "Apricot Bun",
+      "quantity": "10.000",
+      "unit": "pcs",
+      "actual_quantity": "10.000",
+      "price_per_unit": "1.70",
+      "amount": "17.00",
+      "vat_rate": "0.00",
+      "vat_amount": "0.00"
+    },
+    {
+      "no": "3",
+      "product_code": "82548",
+      "product_name": "Cabbage",
+      "quantity": "10.000",
+      "unit": "pcs",
+      "actual_quantity": "10.000",
+      "price_per_unit": "1.30",
+      "amount": "13.00",
+      "vat_rate": "0.00",
+      "vat_amount": "0.00"
+    },
+    {
+      "no": "4",
+      "product_code": "9946",
+      "product_name": "Heat Bun",
+      "quantity": "10.000",
+      "unit": "pcs",
+      "actual_quantity": "10.000",
+      "price_per_unit": "1.80",
+      "amount": "18.00",
+      "vat_rate": "0.00",
+      "vat_amount": "0.00"
+    }
+  ],
+  "total_amount": "63.00",
+  "vat_total_amount": "0.00"
+}

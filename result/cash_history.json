@@ -1,0 +1,54 @@
+[
+  {
+    "HumanMessage": "what type of bill it is",
+    "AIMessage": "It's a receipt/bill."
+  },
+  {
+    "HumanMessage": "How many items are there",
+    "AIMessage": "There are 6 items."
+  },
+  {
+    "HumanMessage": "what is the userid",
+    "AIMessage": "The userid is 1."
+  },
+  {
+    "HumanMessage": "what is taxable amount",
+    "AIMessage": "171.42"
+  },
+  {
+    "HumanMessage": "what is total GST",
+    "AIMessage": "8.57"
+  },
+  {
+    "HumanMessage": "what is date and time",
+    "AIMessage": "The date is 17/11/2024 and the time is 14:14."
+  },
+  {
+    "HumanMessage": "what is total tax",
+    "AIMessage": "8.57"
+  },
+  {
+    "HumanMessage": "what is gst",
+    "AIMessage": "8.57"
+  },
+  {
+    "HumanMessage": "what is gstin number",
+    "AIMessage": "29AAZFBO088L1ZN"
+  },
+  {
+    "HumanMessage": "what is the length of gstin number",
+    "AIMessage": "15"
+  },
+  {
+    "HumanMessage": "what is the address",
+    "AIMessage": "I'm having trouble understanding the information. Let me try to answer directly: The address is: BASAVESHWAR KHANAVALI 7, NO.6, 1ST FLOOR, 1ST CROSS ROAD1, - 5TH BLOCK, KORAMANGALA, BANGALORE-560093.\n\n"
+  },
+  {
+    "HumanMessage": "what is the address",
+    "AIMessage": "BASAVESHWAR KHANAVALI 7, NO.6, 1ST FLOOR, 1ST CROSS ROAD1, - 5TH BLOCK, KORAMANGALA, BANGALORE-560093."
+  },
+  {
+    "HumanMessage": "what is the grand total",
+    "AIMessage": "Rs 180"
+  }
+]

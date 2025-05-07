@@ -1,0 +1,54 @@
+[
+  {
+    "HumanMessage": "for given hsn/sac details what are the taxable values in the invoice",
+    "AIMessage": "The taxable values for the given HSN/SAC details are 322.03, 252.54, 330.51, and 1266.95."
+  },
+  {
+    "HumanMessage": "what is the company name",
+    "AIMessage": "Hindustan Unilever"
+  },
+  {
+    "HumanMessage": "list all the items",
+    "AIMessage": "Colgate 200 gm, Surf Excel Easy Wash Detergent Powder 1kg, Dove Soap, Head & Shoulders Shampoo"
+  },
+  {
+    "HumanMessage": "what is the taxable amount",
+    "AIMessage": "The taxable amount is \u20b92,172.03."
+  },
+  {
+    "HumanMessage": "does it contain qr",
+    "AIMessage": "Yes"
+  },
+  {
+    "HumanMessage": "total how many qauntities of items are there",
+    "AIMessage": "The total quantity of items is 21."
+  },
+  {
+    "HumanMessage": "In the bill there is cgst and sgst what are they",
+    "AIMessage": "CGST (Central Goods and Services Tax) is levied by the central government, while SGST (State Goods and Services Tax) is levied by the state government. They are components of the overall GST applicable on goods and services."
+  },
+  {
+    "HumanMessage": "who is the pm of india",
+    "AIMessage": "I don't know. I only handle invoice or bill-related queries."
+  },
+  {
+    "HumanMessage": "how many items are there in the given invoice and name them",
+    "AIMessage": "The items in the invoice are: Colgate 200 gm, Surf Excel Easy Wash Detergent Powder 1kg, Dove Soap, and Head & Shoulders Shampoo."
+  },
+  {
+    "HumanMessage": "what is the bank details in the invoice",
+    "AIMessage": "Bank: YES BANK, Account #: 6678999222445, IFSC: YESBBIN4567, Branch: Kodihalli"
+  },
+  {
+    "HumanMessage": "what is the first question",
+    "AIMessage": "The first question was \"for given hsn/sac details what are the taxable values in the invoice\"."
+  },
+  {
+    "HumanMessage": "who is the pm",
+    "AIMessage": "I don't know. I only handle invoice or bill-related queries and conversation-based follow-ups."
+  },
+  {
+    "HumanMessage": "what is the cgst and sgst percentage in the invoice",
+    "AIMessage": "CGST and SGST rates are both 9%."
+  }
+]

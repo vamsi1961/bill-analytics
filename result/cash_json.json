@@ -1,0 +1,172 @@
+{
+  "image_description": [
+    {
+      "overall_impression": "The image shows a portion of a printed receipt, likely from a restaurant or retail establishment. The print quality is somewhat faded and slightly blurred.",
+      "text_content": [
+        "BASAVESHWAR KHANAVALI 7",
+        "NO.6, 1ST FLOOR, 1ST CROSS ROAD1",
+        "- 5TH BLOCK, KORAMANGALA",
+        "BANGALORE-560093",
+        "GSTIN: 29AAZFBO088L1ZN",
+        "CASH BILL",
+        "DT: 17/11/2024 @14:14",
+        "BILL NO: 31",
+        "USER ID : 1",
+        "MACHINE NO : 1"
+      ],
+      "layout_details": {
+        "alignment": "The text appears to be primarily centered and vertically aligned.",
+        "font": "The font is a standard monospaced font, common in receipts.",
+        "print_quality": "The print quality is somewhat faded and slightly blurred, making some characters less distinct."
+      },
+      "visual_elements": {
+        "background": "The background appears to be a light-colored paper, typical of receipts.",
+        "markings": "There is a faint mark or smudge visible near the top left corner of the image."
+      }
+    },
+    {
+      "overall_impression": "The image presents a dark, textured surface with vertical lines.",
+      "color": "The dominant color is a deep, dark green, appearing almost black.",
+      "texture": "The surface exhibits a subtle, linear texture. It appears to be composed of numerous thin, vertical lines.",
+      "lines": {
+        "orientation": "Vertical",
+        "density": "High",
+        "spacing": "Close together",
+        "color": "Slightly lighter than the background green, creating a subtle contrast.",
+        "uniformity": "The lines appear relatively uniform in width and spacing, though slight variations are possible due to the image quality."
+      },
+      "lighting": "The lighting is even, with no distinct highlights or shadows. This contributes to the overall flatness of the image.",
+      "details": "The image lacks any discernible objects or patterns beyond the linear texture. It appears to be a close-up of a material or surface."
+    }
+  ],
+  "document_type": "Receipt/Bill",
+  "overall_condition": "Faded, printed on thermal paper",
+  "header_information": {
+    "date": "17/1/2024",
+    "time": "@14",
+    "bill_number": "31",
+    "user_id": "1",
+    "machine_no": "1"
+  },
+  "table_structure": {
+    "columns": [
+      "ITEM",
+      "QTY",
+      "PRICE",
+      "TOTAL"
+    ],
+    "rows": [
+      {
+        "ITEM": "PARCEL HOLIGE",
+        "QTY": "6",
+        "PRICE": "28.57",
+        "TOTAL": "171.42"
+      }
+    ]
+  },
+  "summary_information": {
+    "items": "1",
+    "total_quantity": "6",
+    "taxable_subtotal": "171.42"
+  },
+  "tax_information": {
+    "taxable_amount": "171.42",
+    "cgst_percentage": "5.00%",
+    "cgst_amount": "4.28",
+    "sgst_amount": "4.28",
+    "total_tax": "8.57"
+  },
+  "additional_notes": [
+    "The receipt appears to be from a retail transaction.",
+    "The text is somewhat faded and difficult to read in some areas.",
+    "There is a circular mark or smudge on the receipt."
+  ],
+  "description": "The image shows a portion of a printed receipt, likely from a retail transaction. The receipt is faded and appears to be on thermal paper. There are handwritten markings across some of the printed text.",
+  "details": [
+    {
+      "element": "Text",
+      "content": "TAXABLEAMI",
+      "location": "Top left corner"
+    },
+    {
+      "element": "Text",
+      "content": "GST%",
+      "location": "Above a numerical value"
+    },
+    {
+      "element": "Text",
+      "content": "CGST",
+      "location": "Above a numerical value"
+    },
+    {
+      "element": "Text",
+      "content": "OUT TAX",
+      "location": "Top right corner"
+    },
+    {
+      "element": "Numerical Value",
+      "content": "171.42",
+      "location": "Below 'TAXABLEAMI'"
+    },
+    {
+      "element": "Numerical Value",
+      "content": "5.00%",
+      "location": "Below 'GST%' "
+    },
+    {
+      "element": "Numerical Value",
+      "content": "4.28",
+      "location": "Below 'CGST'"
+    },
+    {
+      "element": "Numerical Value",
+      "content": "4.28",
+      "location": "Below a handwritten mark"
+    },
+    {
+      "element": "Numerical Value",
+      "content": "8.57",
+      "location": "Below a handwritten mark"
+    },
+    {
+      "element": "Text",
+      "content": "TOTAL GST",
+      "location": "Below the numerical values"
+    },
+    {
+      "element": "Numerical Value",
+      "content": "8.57",
+      "location": "Below 'TOTAL GST'"
+    },
+    {
+      "element": "Text",
+      "content": "ROUND OFF",
+      "location": "Below 'TOTAL GST'"
+    },
+    {
+      "element": "Numerical Value",
+      "content": "0.00",
+      "location": "Below 'ROUND OFF'"
+    },
+    {
+      "element": "Text",
+      "content": "GRAND TOT:",
+      "location": "Bottom left corner"
+    },
+    {
+      "element": "Numerical Value",
+      "content": "Rs 180",
+      "location": "Below 'GRAND TOT:'"
+    },
+    {
+      "element": "Text",
+      "content": "THANK YOU ! VISIT AGAIN !",
+      "location": "Bottom right corner"
+    },
+    {
+      "element": "Markings",
+      "content": "Handwritten markings across the receipt, obscuring some text and numbers.",
+      "location": "Throughout the receipt"
+    }
+  ]
+}

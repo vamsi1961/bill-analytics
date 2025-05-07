@@ -1,0 +1,228 @@
+{
+  "document_type": "Tax Invoice",
+  "header": [
+    {
+      "company_name": "Hindustan Unilever",
+      "gstin": "27AAACT27Q1ZW",
+      "address": "64, Whitefield Main Rd, Palm Meadows, Whitefield",
+      "city": "Bangalore",
+      "state": "KARNATAKA",
+      "pincode": "560066",
+      "mobile": "9977538551"
+    },
+    {
+      "amountChargeable": "\u20b92,000",
+      "amountChargeableInWords": "Two Thousand",
+      "totalAmount": "\u20b92,563.00",
+      "paidViaUPI": "\u20b92563 paid via UPI on 17-06-2023"
+    }
+  ],
+  "customer_details": {
+    "customer_name": "Heim Schumacher",
+    "billing_address": "Marathahalli - Sarjapur Outer Ring Road, Kadabeesanahalli, Bangalore, KARNATAKA, 560087",
+    "phone": "9999999999"
+  },
+  "shipping_details": {
+    "address": "Marathahalli - Sarjapur Outer Ring Road, Kadabeesanahalli, Bangalore, KARNATAKA, 560087"
+  },
+  "invoice_details": {
+    "invoice_number": "INV-11",
+    "invoice_date": "15 Jun 2023",
+    "due_date": "15 Jun 2023",
+    "place_of_supply": "29-KARNATAKA"
+  },
+  "table_data": [
+    {
+      "item": "Colgate 200 gm",
+      "hsn_sac": "33061020",
+      "tax": "18%",
+      "quantity": "5 NOS",
+      "rate_per_item": "64.41",
+      "per": "NOS",
+      "amount": "322.03"
+    },
+    {
+      "item": "Surf Excel Easy Wash Detergent Powder 1kg",
+      "hsn_sac": "34011918",
+      "tax": "18%",
+      "quantity": "2 NOS",
+      "rate_per_item": "126.67",
+      "per": "NOS",
+      "amount": "253.34"
+    },
+    {
+      "item": "Dove Soap",
+      "hsn_sac": "34011918",
+      "tax": "18%",
+      "quantity": "10 NOS",
+      "rate_per_item": "33.05",
+      "per": "NOS",
+      "amount": "330.51"
+    },
+    {
+      "item": "Head & Shoulders Shampoo",
+      "hsn_sac": "3304",
+      "tax": "18%",
+      "quantity": "5",
+      "rate_per_item": "253.39",
+      "per": "Nos",
+      "amount": "1266.95"
+    }
+  ],
+  "documentType": "Invoice/Bill",
+  "table": {
+    "headers": [
+      "HSN/SAC",
+      "Taxable Value",
+      "Rate",
+      "Amount",
+      "Rate",
+      "Amount"
+    ],
+    "rows": [
+      {
+        "HSN/SAC": "33061020",
+        "taxableValue": "322.03",
+        "centralTaxRate": "9%",
+        "centralTaxAmount": "28.98",
+        "stateTaxRate": "9%",
+        "stateTaxAmount": "28.98"
+      },
+      {
+        "HSN/SAC": "340119",
+        "taxableValue": "252.54",
+        "centralTaxRate": "9%",
+        "centralTaxAmount": "22.73",
+        "stateTaxRate": "9%",
+        "stateTaxAmount": "22.73"
+      },
+      {
+        "HSN/SAC": "34011919",
+        "taxableValue": "330.51",
+        "centralTaxRate": "9%",
+        "centralTaxAmount": "29.75",
+        "stateTaxRate": "9%",
+        "stateTaxAmount": "29.75"
+      },
+      {
+        "HSN/SAC": "3304",
+        "taxableValue": "1266.95",
+        "centralTaxRate": "9%",
+        "centralTaxAmount": "114.03",
+        "stateTaxRate": "9%",
+        "stateTaxAmount": "114.03"
+      }
+    ],
+    "total": {
+      "taxableValue": "2,172.03",
+      "centralGST": "195.49",
+      "stateGST": "195.49"
+    }
+  },
+  "items": [
+    "Surf Excel Easy Wash Detergent Powder 1kg",
+    "Dove Soap",
+    "Head & Shoulders Shampoo"
+  ],
+  "image_description": [
+    {
+      "overall_layout": "The image shows a receipt or invoice with various details, including bank information, payment details, notes, and terms and conditions. The receipt appears to be printed on a white background.",
+      "sections": [
+        {
+          "section_name": "Top Section",
+          "details": [
+            "Several numbers are displayed: 2,172.03, 195.49, 195.49, 390.97",
+            "Text: 'Pay using UPI' and 'For Hindustan Unilever'",
+            "A QR code is present."
+          ]
+        },
+        {
+          "section_name": "Bank Details",
+          "details": [
+            "Bank: YES BANK",
+            "Account #: 6678999222445",
+            "IFSC: YESBBIN4567",
+            "Branch: Kodihalli"
+          ]
+        },
+        {
+          "section_name": "Payment Details",
+          "details": [
+            "Text: '\u20b92563 Paid via UPI on 17-06-2023'"
+          ]
+        },
+        {
+          "section_name": "Notes",
+          "details": [
+            "Text: 'Thank you for the Business'"
+          ]
+        },
+        {
+          "section_name": "Terms and Conditions",
+          "details": [
+            "1. Goods once sold cannot be taken back or exchanged.",
+            "2. We are not the manufacturers, company will stand for warranty as per their terms and conditions.",
+            "3. Interest @24% p.a. will be charged for uncleared bills beyond 15 days.",
+            "4. Subject to local Jurisdiction."
+          ]
+        },
+        {
+          "section_name": "Signature",
+          "details": [
+            "A signature with the word 'SIGNATURE' is present."
+          ]
+        }
+      ]
+    },
+    {
+      "overall_impression": "The image shows a portion of a digitally signed document. The background is a light gray color.",
+      "text_elements": [
+        {
+          "text": "4. Subject to local Jurisdiction",
+          "location": {
+            "x": 100,
+            "y": 50,
+            "width": 250,
+            "height": 20
+          },
+          "font_size": 10,
+          "font_style": "normal"
+        },
+        {
+          "text": "Page 1/1",
+          "location": {
+            "x": 100,
+            "y": 750,
+            "width": 100,
+            "height": 20
+          },
+          "font_size": 10,
+          "font_style": "normal"
+        },
+        {
+          "text": "This is a digitally signed document",
+          "location": {
+            "x": 100,
+            "y": 725,
+            "width": 250,
+            "height": 20
+          },
+          "font_size": 10,
+          "font_style": "normal"
+        }
+      ],
+      "visual_elements": [
+        {
+          "type": "digital signature",
+          "location": {
+            "x": 500,
+            "y": 100,
+            "width": 100,
+            "height": 50
+          },
+          "description": "A digital signature is present, but its content is not discernible."
+        }
+      ]
+    }
+  ]
+}
