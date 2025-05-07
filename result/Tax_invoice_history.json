@@ -1,0 +1,62 @@
+[
+  {
+    "HumanMessage": "give me a summary of the invoice",
+    "AIMessage": "Here's a summary of the invoice:\n\n*   **Vendor:** Tech-Connect Retail Private Limited (GSTIN: 29AAICA4872D1ZK)\n*   **Customer:** Ammishbai Patel\n*   **Invoice Number:** FABD2C100864029\n*   **Order ID:** 0011957107836643200\n*   **Invoice Date:** 31-08-2020\n*   **Item:** Honor MagicBook 15 Ryzen 5 (Quantity: 1, Total: 42990.0)\n*   **Total Amount:** 42990.0 (including IGST of 6557.8)\n*   **Notes:** Keep the invoice and warranty box for warranty purposes."
+  },
+  {
+    "HumanMessage": "what is the billing address of the invoice",
+    "AIMessage": "The billing address of the invoice is Sy.No.139,256,258 and 263, Maler Industrial Area, Honakote, Kodihalli, Mulbagal Taluk, Kolar, Karnataka, 563130, Bangalore, Karnataka, India - 563130."
+  },
+  {
+    "HumanMessage": "what is the shipping address of the invoice",
+    "AIMessage": "The shipping address of the invoice is 03 - Venice Bungalows, Near SP Ring Road, Behind Rainforest Bungalows, Nana Chiloda, Ahmedabad 382330 Gujarat."
+  },
+  {
+    "HumanMessage": "what is IMEI Number of the invoice",
+    "AIMessage": "The IMEI number of the invoice is MKHPM204717008."
+  },
+  {
+    "HumanMessage": "what is GSTIN Number of the invoice",
+    "AIMessage": "29AAICA4872D1ZK"
+  },
+  {
+    "HumanMessage": "what is CIN and PAN Number of the invoice",
+    "AIMessage": "The PAN number of the invoice is AAICA4872D."
+  },
+  {
+    "HumanMessage": "Give the order details of the invoice",
+    "AIMessage": "The item is Honor MagicBook 15 Ryzen 5 Quad Core - 8 GB / 256 GB SSD/Windows 10 Home. The order ID is 0011957107836643200."
+  },
+  {
+    "HumanMessage": "Give the invoice details of the invoice",
+    "AIMessage": "Here's a summary of the invoice details:\n\n*   **Vendor:** Tech-Connect Retail Private Limited (GSTIN: 29AAICA4872D1ZK)\n*   **Customer:** Ammishbai Patel\n*   **Invoice Number:** FABD2C100864029\n*   **Order ID:** 0011957107836643200\n*   **Invoice Date:** 31-08-2020\n*   **Item:** Honor MagicBook 15 Ryzen 5 Quad Core - 8 GB / 256 GB SSD/Windows 10 Home (HSN/SAC: 84713010, Quantity: 1, Total: 42990.0)\n*   **Total Amount:** 42990.0 (including IGST of 6557.8)\n*   **PAN:** AAICA4872D\n*   **Notes:** Keep this invoice and the warranty manufacturer box for warranty purposes.\n*   **IMEI:** MKHPM204717008"
+  },
+  {
+    "HumanMessage": "If i get 10% discount on laptop what is the final amount of the invoice",
+    "AIMessage": "The final amount of the invoice after a 10% discount would be 38691.0."
+  },
+  {
+    "HumanMessage": "did they kept sign of the invoice",
+    "AIMessage": "Yes"
+  },
+  {
+    "HumanMessage": "what is the igst in the invoice",
+    "AIMessage": "The IGST in the invoice is 6557.8."
+  },
+  {
+    "HumanMessage": "how much percentage is taxable amount is in the total in the invoice",
+    "AIMessage": "3 times the order amount is 84.7457548267039."
+  },
+  {
+    "HumanMessage": "what is the second question?",
+    "AIMessage": "There was no second question."
+  },
+  {
+    "HumanMessage": "what is the second question given by user check from the history?",
+    "AIMessage": "There was no second question."
+  },
+  {
+    "HumanMessage": "what is the second human message from the history?",
+    "AIMessage": "what is the billing address of the invoice"
+  }
+]

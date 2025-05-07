@@ -1,0 +1,72 @@
+{
+  "documentType": "Invoice",
+  "vendor": {
+    "name": "Tech-Connect Retail Private Limited",
+    "address": "Sy.No.139,256,258 and 263, Maler Industrial Area, Honakote, Kodihalli, Mulbagal Taluk, Kolar, Karnataka, 563130, Bangalore, Karnataka, India - 563130",
+    "GSTIN": "29AAICA4872D1ZK"
+  },
+  "customer": {
+    "name": "Ammishbai Patel",
+    "address": "03 - Venice Bungalows, Near SP Ring Road, Behind Rainforest Bungalows, Nana Chiloda, Ahmedabad 382330 Gujarat",
+    "phone": "xxxxxxxx"
+  },
+  "invoiceDetails": {
+    "invoiceNumber": "FABD2C100864029",
+    "orderId": "0011957107836643200",
+    "invoiceDate": "31-08-2020",
+    "PAN": "AAICA4872D"
+  },
+  "items": [
+    {
+      "itemNumber": 1,
+      "description": "Honor MagicBook 15 Ryzen 5 Quad Core - 8 GB / 256 GB SSD/Windows 10 Home",
+      "HSN/SAC": "84713010",
+      "quantity": 1,
+      "grossAmount": 42990.0,
+      "discount": 0.0,
+      "taxableValue": 42990.0,
+      "IGST": 6557.8,
+      "total": 42990.0
+    }
+  ],
+  "totals": {
+    "taxableValue": 42990.0,
+    "IGST": 6557.8,
+    "grandTotal": 42990.0
+  },
+  "notes": [
+    "Keep this invoice and the warranty manufacturer box for warranty purposes."
+  ],
+  "additionalDetails": {
+    "IMEI": "MKHPM204717008"
+  },
+  "image_description": {
+    "overall_impression": "The image shows a close-up of a document or form, likely a legal or official one, with printed text. The background is plain white.",
+    "text_elements": [
+      {
+        "text": "Tech-Connect Retail Private Limited",
+        "location": "Top center",
+        "font_size": "Medium",
+        "font_style": "Standard"
+      },
+      {
+        "text": "Authorized Signatory",
+        "location": "Bottom center",
+        "font_size": "Small",
+        "font_style": "Standard"
+      }
+    ],
+    "lines": [
+      {
+        "location": "Bottom",
+        "type": "Horizontal line",
+        "thickness": "Thin"
+      }
+    ],
+    "color_palette": [
+      "White",
+      "Black"
+    ],
+    "layout": "Simple, with text centered and a horizontal line at the bottom."
+  }
+}
