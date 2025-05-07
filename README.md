@@ -17,4 +17,6 @@ project_root/
 │
 ├── Code/
 │   └── BILL_analytics.ipynb   # Main notebook containing the entire pipeline
+|
+|___ BILL_analytics.pdf        # documentation 
 ```
